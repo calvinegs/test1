@@ -1,5 +1,5 @@
 title = "Notre-Dame de Paris"
-baseURL = "https://example.com"
+baseURL = "https://calvinegs.github.io/test1/"
 languageCode = "en-us"
 theme = "ananke"
 resourceDir = "../resources"
