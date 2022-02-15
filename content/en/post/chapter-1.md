@@ -6,6 +6,14 @@ tags: ["scene"]
 title: "Chapter I: The Grand Hall"
 ---
 
+```mermaid
+  graph TD;
+      A-->B;
+      A-->C;
+      B-->D;
+      C-->D;
+```
+
 Three hundred and forty-eight years, six months, and nineteen days ago
 to-day, the Parisians awoke to the sound of all the bells in the triple
 circuit of the city, the university, and the town ringing a full peal.
@@ -66,7 +74,7 @@ which five or six streets, like so many mouths of rivers, discharged every
 moment fresh floods of heads. The waves of this crowd, augmented
 incessantly, dashed against the angles of the houses which projected here
 and there, like so many promontories, into the irregular basin of the
-place. In the centre of the lofty Gothic* façade of the palace, the grand
+place. In the centre of the lofty Gothic\* façade of the palace, the grand
 staircase, incessantly ascended and descended by a double current, which,
 after parting on the intermediate landing-place, flowed in broad waves
 along its lateral slopes,—the grand staircase, I say, trickled
